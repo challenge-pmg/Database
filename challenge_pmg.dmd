@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="challenge_pmg" id="5913924A-A750-94E7-7025-E37BF49FD58E" version="3.5">
+<createdBy>Administrador</createdBy>
+<createdTime>2025-05-21 13:37:23 UTC</createdTime>
+<ownerDesignName>challenge_pmg</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>5913924A-A750-94E7-7025-E37BF49FD58E</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="80B12798-B8E7-085B-B7EB-BFA8E989CD49">
+<designStoragePath>C:\modelo_logico_oracle_fiap</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
